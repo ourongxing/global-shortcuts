@@ -1,1 +1,1 @@
-# global-shorts
+# 全局快捷键
